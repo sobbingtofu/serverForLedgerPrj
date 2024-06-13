@@ -1,0 +1,36 @@
+{
+  "ledgers": [
+    {
+      "id": "46869445-5f9c-4650-941f-41bd9457bc07",
+      "category": "시은",
+      "date": "2024-06-13",
+      "money": "1500",
+      "description": "시은 빵",
+      "createdBy": "tom"
+    },
+    {
+      "id": "a5c0d8de-d010-4d07-9934-29765051a7ea",
+      "category": "지호",
+      "date": "2024-03-13",
+      "money": 100,
+      "description": "지호 밥",
+      "createdBy": "juri"
+    },
+    {
+      "id": "4392bd5b-82a5-4a68-ba42-3cc815c923d2",
+      "date": "2024-06-05",
+      "category": "주리",
+      "money": "1200",
+      "description": "주리 사료",
+      "createdBy": "juri"
+    },
+    {
+      "id": "41a85cf4-7237-43ae-9fe3-ca1147faef1a",
+      "date": "2024-06-05",
+      "category": "지호",
+      "money": "800",
+      "description": "지호 간식",
+      "createdBy": "juri"
+    }
+  ]
+}
